@@ -2,6 +2,8 @@
 
 AWS SSO login script with interactive account and role selection.
 
+**Note:** This script is not owned or authored by the repository owner. It is included here for reference and integration purposes only.
+
 ## Setup
 
 1. Copy `.env.example` to `.env`:

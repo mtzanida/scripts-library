@@ -4,6 +4,9 @@ set -euo pipefail
 
 # =============================================================================
 # AWS SSO Login Script - Refactored Version
+# 
+# NOTE: This script is not owned or authored by the repository owner.
+# It is included here for reference and integration purposes only.
 # =============================================================================
 
 # Global Configuration
